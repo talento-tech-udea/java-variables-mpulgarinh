@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc1adc8-ee4e-4fc3-887c-ce9e0effb93d" name="Changes" comment="" />
+    <list default="true" id="abc1adc8-ee4e-4fc3-887c-ce9e0effb93d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PerimeterCalculator.executor": "Run",
     "JUnit.All in java (1).executor": "Run",
     "JUnit.All in java (2).executor": "Run",
     "JUnit.All in java.executor": "Run",
@@ -39,7 +43,10 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/manueljurado/talento-tech/java-variables"
+    "last_opened_file_path": "C:/Users/Mauricio/java-variables-mpulgarinh",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,6 +55,13 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.PerimeterCalculatorTest">
+    <configuration name="PerimeterCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerimeterCalculator" />
+      <module name="java-programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in java (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-programming" />
       <option name="PACKAGE_NAME" value="" />
@@ -97,6 +111,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.PerimeterCalculatorTest" />
+        <item itemvalue="Application.PerimeterCalculator" />
         <item itemvalue="JUnit.All in java (2)" />
         <item itemvalue="JUnit.All in java (1)" />
         <item itemvalue="JUnit.All in java" />
